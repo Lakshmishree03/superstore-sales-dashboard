@@ -30,13 +30,7 @@ Note: this dataset had no missing values or duplicates; cleaning involved primar
 
 \## Screenshots
 
-<!-- Add dashboard screenshots here, e.g.: -->
-
-<!-- !\[Dashboard Overview](screenshots/overview.png) -->
-
-<!-- !\[Discount vs Profit](screenshots/discount\_profit.png) -->
-
-
+!\[Dashboard Overview](screenshots/overview.png)
 
 \## Tools
 
