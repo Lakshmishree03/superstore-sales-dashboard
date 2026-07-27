@@ -30,7 +30,7 @@ Note: this dataset had no missing values or duplicates; cleaning involved primar
 
 \## Screenshots
 
-!\[Dashboard Overview](screenshots/overview.png)
+![Dashboard Overview](screenshots/overview.png)
 
 \## Tools
 
